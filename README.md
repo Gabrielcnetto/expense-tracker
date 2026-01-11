@@ -3,11 +3,6 @@ Manage your expenses with ease using Expense Tracker CLI
 
 Complete code available at https://github.com/Gabrielcnetto/expense-tracker
 
-Usage:
-  github-user-activity [flags]
-
-
-Use "Task [command] --help" for more information about a command.
 
 ## Authors
 
